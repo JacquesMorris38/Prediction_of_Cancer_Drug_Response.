@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: “Cancer Drug-Response Prediction Using Leakage-Safe Multimodal Machine Learning”
+message: “If you use this repository, please cite the accompanying journal article.”
+
+authors:
+
+* family-names: “Nuekpe”
+    given-names: “Jacques Morris”
+
+version: “1.0.0”
+
+date-released: 2026-06-25
+
+license: MIT
+
+repository-code: https://github.com//
+
+keywords:
+
+* Precision Oncology
+* Drug Response Prediction
+* Machine Learning
+* Random Forest
+* XGBoost
+* SHAP
+* Pharmacogenomics
+* Explainable AI
